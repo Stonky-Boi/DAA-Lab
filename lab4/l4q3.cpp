@@ -1,4 +1,4 @@
-// Stable matching
+// Find a stable matching between students and companies
 
 #include <iostream>
 #include <vector>

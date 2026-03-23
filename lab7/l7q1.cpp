@@ -1,3 +1,6 @@
+// You may choose unlimited copies of each item type
+// Determine the maximum total value that can be obtained
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

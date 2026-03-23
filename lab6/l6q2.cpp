@@ -1,4 +1,4 @@
-// Stable matching with penalty
+// Compute the minimum possible total penalty among all stable matchings
 
 #include <iostream>
 #include <vector>

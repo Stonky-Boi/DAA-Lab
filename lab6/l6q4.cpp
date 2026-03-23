@@ -1,4 +1,5 @@
-// Interval scheduling
+// Minimize the maximum lateness
+// Distribute workload among workers as fairly as possible
 
 #include <iostream>
 #include <vector>

@@ -1,4 +1,4 @@
-// Second closest pair
+// Among all possible pairs of points, determine the second smallest distinct Euclidean distance.
 
 #include <iostream>
 #include <vector>

@@ -1,4 +1,4 @@
-// Interval scheduling
+// Select the maximum number of activities such that no two selected activities overlap
 
 #include <iostream>
 #include <vector>

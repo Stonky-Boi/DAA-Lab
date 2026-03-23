@@ -1,4 +1,5 @@
-// Stable matching with contentions
+// Determine whether changing a participant’s preference list
+// would change the final stable matching outcome
 
 #include <iostream>
 #include <vector>

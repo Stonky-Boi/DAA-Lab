@@ -1,4 +1,5 @@
-// Closest pair between overlapping active drones
+// Two drones can communicate only if their active time intervals overlap
+// Compute the minimum Euclidean distance between any pair of drones that can communicate
 
 #include <iostream>
 #include <vector>

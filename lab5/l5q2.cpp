@@ -1,4 +1,4 @@
-// Integer multiplication in O(n^log(2)(3)) time
+// Multiply two n-digit non-negative integers in O(n^log(2)(3)) time
 
 #include <iostream>
 #include <algorithm>

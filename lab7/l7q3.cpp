@@ -1,14 +1,15 @@
+// Compute the maximum size of an independent set in the given tree
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
 using namespace std;
 
-void dfs(int node, int parent, vector<vector<int>> &graph,
-         vector<long long> &dp_take, vector<long long> &dp_skip)
+void dfs(int node, int parent, vector<vector<int>> &graph, vector<long long> &dp_take, vector<long long> &dp_skip)
 {
     dp_take[node] = 1;
     dp_skip[node] = 0;
-    for (int next : graph[node])
+    for (auto next : graph[node])
     {
         if (next == parent)
             continue;

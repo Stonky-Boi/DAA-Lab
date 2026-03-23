@@ -1,3 +1,5 @@
+// Determine the maximum profit the company can earn
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

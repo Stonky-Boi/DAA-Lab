@@ -1,4 +1,4 @@
-// Look ahead cache
+// Determine the minimum number of cache misses
 
 #include <iostream>
 #include <vector>

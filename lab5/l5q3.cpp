@@ -1,4 +1,5 @@
-// Maximum overlap
+// A workshop has several tasks that take place during the day
+// Determine the minimum number of machines required
 
 #include <iostream>
 #include <vector>
