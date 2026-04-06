@@ -1,3 +1,5 @@
+// Determine the maximum value obtained by parenthesizing the given expression
+
 #include <iostream>
 #include <vector>
 #include <limits>

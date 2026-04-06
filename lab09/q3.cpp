@@ -1,3 +1,5 @@
+// Calculate the total weighted distance sum for every node in the tree
+
 #include <iostream>
 #include <vector>
 using namespace std;

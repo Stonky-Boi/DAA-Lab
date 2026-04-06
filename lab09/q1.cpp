@@ -1,3 +1,5 @@
+// Determine the minimum total search cost
+
 #include <iostream>
 #include <vector>
 #include <limits>
